@@ -1,3 +1,2 @@
-  
-server:
-  port: wwwwww
+  config:
+    info: wwwwww
